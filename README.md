@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MeSlav
-- 👀 I’m interested in Software develoopment
+- 👀 I’m interested in Software development
 - 🌱 I’m currently learning .NET core, VueJS, AngularJS, Jest
 - 💞️ I’m looking to collaborate on Frontend Angular/VueJS projects
 - 📫 How to reach me mislav.kordic@gmail.com
